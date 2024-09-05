@@ -1,1 +1,11 @@
-
+body{
+    background-color: snow;
+}
+header,footer{
+    background-color: #2980b9;
+    -webkit-text-fill-color: white;
+}
+.container{
+    border: #2980b9;
+    background-color: #2980b9;
+}
